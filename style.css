@@ -9,7 +9,7 @@
 
 .titulo-centralizado{
     text-align: center;
-    font-size: 40px;
+    font-size: 50px;
     padding: 20px;
 }
 
@@ -19,12 +19,7 @@
 }
 
 
-
-.titulo-principal{
-    padding-left: 40px;
-
-}
-
 .texto{
     font-style: italic;
+    font-size: 30px;
 }
