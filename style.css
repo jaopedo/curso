@@ -23,3 +23,15 @@
     font-style: italic;
     font-size: 30px;
 }
+
+.contato{
+       padding: 40px;
+       margin: 40px;
+       font-size: 25px;
+
+}
+
+li{
+    margin: 15px;
+
+}
