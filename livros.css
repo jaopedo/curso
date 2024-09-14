@@ -1,10 +1,10 @@
 header {
-    background-color: palevioletred;
+    background-color: rgb(255, 0, 43);
     padding: 25px 0;
 }
 
 body{
-    background-color: pink;
+    background-color: purple;
 }
 
 
@@ -43,7 +43,7 @@ nav a:hover {
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
-    background-color: pink;
+    background-color: purple;
 }
 
 .produtos li {
@@ -61,7 +61,7 @@ nav a:hover {
 }
 
  .produtos li:hover {
-        border-color: purple;
+        border-color:rgb(255, 0, 43) ;
         
 
 }
@@ -96,3 +96,26 @@ nav a:hover {
     margin-top: 10px;
     
 }
+
+.logo{
+    font-size: 40px;
+}
+
+.Copyrigth{
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+
+}
+
+footer{
+    text-align: center;
+    background: url(bg.jpg);
+    padding: 30px;
+    
+}
+
+.imagem-copy{
+    font-size: 50px;
+}
+
