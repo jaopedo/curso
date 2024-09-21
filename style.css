@@ -24,14 +24,30 @@
     font-size: 30px;
 }
 
-.contato{
-       padding: 40px;
-       margin: 40px;
-       font-size: 25px;
+main{
+    width: 940px;
+    margin: 0 auto;
 
 }
 
-li{
-    margin: 15px;
+form{
+    margin: 40px 0;
+    
+}
 
+form label, form p{
+     display: block;
+     font-size: 20px;
+     margin-bottom: 10px;
+}
+
+form input, form textarea, .input-padrao{
+    display: block;
+    margin-bottom: 10px;
+    width: 50%;
+    padding: 10px 40px;
+}
+
+.checkbox1{
+    margin: 25px 0;
 }
