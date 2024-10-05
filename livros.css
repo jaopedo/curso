@@ -4,7 +4,7 @@ header {
 }
 
 body{
-    background-color: purple;
+    background-color: rgb(214, 212, 212);
 }
 
 
@@ -43,7 +43,7 @@ nav a:hover {
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
-    background-color: purple;
+    background-color: rgb(214, 212, 212);
 }
 
 .produtos li {
